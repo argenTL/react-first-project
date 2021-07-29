@@ -1,0 +1,21 @@
+.about{
+    background-color: #ddeadd;
+    padding: 5px 20px;
+}
+.archives ul,
+.social ul{
+    list-style: none;
+    padding: 0;
+}
+.archives a,
+.social a{
+    text-decoration: none;
+}
+.social li{
+    display: flex;
+    align-items: center;
+    padding-bottom: 15px;
+}
+.social img{
+    padding-right: 10px;
+}
